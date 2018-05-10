@@ -3,3 +3,13 @@
 ################################################################################
 
 /packages
+/portals/yovip.api/bin
+/portals/yovip.api/obj/Debug
+/portals/yovip.portal.dashboard/bin
+/portals/yovip.portal.dashboard/obj/Debug
+/yoip.core.services/bin/Debug
+/yoip.core.services/obj/Debug
+/yovip.core/bin/Debug
+/yovip.core/obj/Debug
+/.vs/yovip/v15
+/.vs
