@@ -87,8 +87,10 @@
     <Compile Include="Common\Util\AESUtil.cs" />
     <Compile Include="Common\Util\Guard.cs" />
     <Compile Include="Common\Util\WxUtil.cs" />
+    <Compile Include="Contracts\IEnjoyHost.cs" />
+    <Compile Include="Contracts\Models\IAuth.cs" />
     <Compile Include="Contracts\Models\IDataEntity.cs" />
-    <Compile Include="Contracts\Farmework\IWorkContextScope.cs" />
+    <Compile Include="Contracts\IWorkContextScope.cs" />
     <Compile Include="Contracts\Models\Wx\IMiniprogram.cs" />
     <Compile Include="Contracts\Models\Wx\IWxAccessToken.cs" />
     <Compile Include="Contracts\Models\Wx\IWxtAuthorization.cs" />
@@ -98,9 +100,11 @@
     <Compile Include="Contracts\Services\IDataWritter.cs" />
     <Compile Include="Contracts\Services\IWeChatSessionService.cs" />
     <Compile Include="Common\Extensions\DatabaseExtension.cs" />
-    <Compile Include="Contracts\Farmework\IEnjoyHost.cs" />
     <Compile Include="Database\Models\MySQLDataEntity.cs" />
     <Compile Include="Enums\DealingTypes.cs" />
+    <Compile Include="Environment\DefaultEnjoyHost.cs" />
+    <Compile Include="Environment\EnjoyStarter.cs" />
+    <Compile Include="Models\Auth.cs" />
     <Compile Include="Models\Entities\Deal.cs" />
     <Compile Include="Models\Entities\MemberAssetsCard.cs" />
     <Compile Include="Models\Entities\MemberAssetsCoupon.cs" />
@@ -108,8 +112,6 @@
     <Compile Include="Models\Entities\Shop.cs" />
     <Compile Include="Models\Entities\ShopAdmin.cs" />
     <Compile Include="Models\Entities\ShopAssets.cs" />
-    <Compile Include="Models\ShellContext.cs" />
-    <Compile Include="Models\ShellSettings.cs" />
     <Compile Include="Models\WeChat\Miniprogram.cs" />
     <Compile Include="Models\WeChat\WxAccessToken.cs" />
     <Compile Include="Models\WeChat\WxAuthorization.cs" />

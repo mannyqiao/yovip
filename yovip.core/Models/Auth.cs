@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace Enjoy.Core
 {
-    public interface IWorkContextScope
+    public class Auth : IAuth
     {
-
+        public string Token { get; set; }    
     }
 }

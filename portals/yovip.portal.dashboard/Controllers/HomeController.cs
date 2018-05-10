@@ -11,9 +11,10 @@ namespace Enjoy.Portal.Dashboard.Controllers
     {
         public ActionResult Index()
         {
+
             return View(new Portals() );
         }       
-        public ActionResult Logon()
+        public ActionResult Authorize()
         {
             return View();
         }

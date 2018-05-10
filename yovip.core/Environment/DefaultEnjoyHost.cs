@@ -4,10 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Enjoy.Core.Models
+namespace Enjoy.Core
 {
-    public class ShellContext
+    public class DefaultEnjoyHost : IEnjoyHost
     {
-
+        public IWorkContextScope WorkContext { get; private set; }
     }
 }
