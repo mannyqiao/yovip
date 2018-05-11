@@ -1,0 +1,9 @@
+﻿{
+  "Name": "Enjoy.Portal.Api",
+  "StartFromThisFeature": true,
+  "Enabled": false, 
+  "Description": "",
+  "Dependences": [
+
+  ]
+}
