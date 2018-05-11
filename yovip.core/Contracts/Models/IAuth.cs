@@ -8,6 +8,7 @@ namespace Enjoy.Core
 {
     public interface IAuth
     {
-        string Token { get; set; }
+        string Token { get; }
+        long Id { get; }
     }
 }
