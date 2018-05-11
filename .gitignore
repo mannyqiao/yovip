@@ -13,3 +13,17 @@
 /yovip.core/obj/Debug
 /.vs/yovip/v15
 /.vs
+/Enjoy.Core/bin/Debug
+/Enjoy.Core/obj/Debug
+/Enjoy.Core.Services/bin/Debug
+/Enjoy.Core.Services/obj/Debug
+/Enjoy.WarmupStarter/bin/Debug
+/Enjoy.WarmupStarter/obj/Debug
+/Enjoy.Web/bin
+/Enjoy.Web/Modules/Enjoy.Portal.Api/bin
+/Enjoy.Web/Modules/Enjoy.Portal.Api/obj/Debug
+/Enjoy.Web/Modules/Enjoy.Portal.dashboard/bin
+/Enjoy.Web/Modules/Enjoy.Portal.dashboard/obj
+/Enjoy.Web/obj/Debug
+/Test/ConsoleApp/bin/Debug
+/Test/ConsoleApp/obj/Debug

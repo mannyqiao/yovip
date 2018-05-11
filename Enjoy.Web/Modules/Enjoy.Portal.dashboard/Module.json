@@ -1,0 +1,9 @@
+﻿{
+  "Name": "Enjoy.Portal.Dashboard",
+  "StartFromThisFeature": true,
+  "Enabled": false,
+  "Description": "",
+  "Dependences": [
+
+  ]
+}
